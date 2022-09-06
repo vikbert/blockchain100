@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1349/1349937.png" width="280px" alt="blockchain" />
+  <img src="https://thumbs.dreamstime.com/b/digitales-logo-blockchain-ikonenentwurf-cryptocurrency-vektors-201091629.jpg" width="280px" alt="blockchain" />
   <h3>100 Days Blockchain</h3>
   <p>A 100 days journey to Blockchain</p>
 
@@ -12,7 +12,11 @@
 
 ---
 
+# 100 Days
+06.09.2022 - 15.12.2022
+
 # Rules
+- 1x hour each day
 - Open source & learning in public
 - Tweeting what I learned
 - blogging what I learned
