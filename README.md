@@ -22,7 +22,7 @@
 ### 🎬 Executive Briefing: Blockchain
 by `Simon Allardice` (37m)
 
-https://app.pluralsight.com/course-player?courseId=8f4bfd16-928d-4e50-a2d8-753606646eb2
+https://app.pluralsight.com/library/courses/blockchain-executive-briefing/table-of-contents
 
 ### 🎬 Blockchain Fundamentals
 by `Jan-Erik Sandberg` (2h 20m)
@@ -33,13 +33,20 @@ https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-con
 ### 🎬 Blockchain - Principles and Practices
 by `Stephen Haunts` (2h 41m)
 
-https://app.pluralsight.com/course-player?courseId=90acd59b-0f99-4ac2-98ea-affbf4dda5aa
+https://app.pluralsight.com/library/courses/blockchain-principles-practices/table-of-contents
 
 
 ### 🎬  Introduction to Bitcoin and Decentralized Technology
 by `Scoot Driscoll` (3h 27m)
 
-https://app.pluralsight.com/course-player?courseId=c30b0eb9-61a4-4c6a-bae7-eb9d70b6f039
+https://app.pluralsight.com/library/courses/bitcoin-decentralized-technology/table-of-contents
+
+
+### 🎬  Developing Application on Ethereum Blockchain
+by `Ivan Mushketyk` (5h 15m)
+
+https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents
+
 
 # D1: Blockchain Briefing
 
