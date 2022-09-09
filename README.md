@@ -21,7 +21,7 @@
 - Tweeting what I learned
 - blogging what I learned
 
-## Day 1
+# Day 1: Blockchain Briefing
 #### `ledgers`
 conflicting/inconsistent ledgers. The discrepancy is a real problem, if we don't have some to settle it.
 Is there a shared, incorruptible, secure and authoritative ledger? where the ledger becomes the source 
@@ -47,6 +47,7 @@ cryptographic hashing or just hashing, is a commmon task in programming.
 We are already compfortable with the purposes and benefits of hashing. Think of the word hash as we use it in cooking, like corn beef hash. A hash is where you take some ingredients, chop them up into little bits, mix it all up, and get the result.
 That's kind of what we're doing here. We will put some calculations on thoese different pieces, and then combine them together
 to end up with a small value. A result that often looks smaller and very meaningless and random, but it was actually based on that original data.
+
 
 # Tutorial resources
 ### 🎬 Executive Briefing: Blockchain
@@ -78,14 +79,6 @@ by `Ivan Mushketyk` (5h 15m)
 
 https://app.pluralsight.com/library/courses/ethereum-blockchain-developing-applications/table-of-contents
 
-
-# D1: Blockchain Briefing
-
-# D2: Ethereum and DAPPs
-
-# D3: Smart Contracts
-
-# D4: FoodSafe
 
 ## licence
 
