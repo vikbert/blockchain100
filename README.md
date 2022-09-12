@@ -42,13 +42,15 @@ Everyone is a peer, and new transaction can be added at any point in this networ
 
 Blockchain is append-only. The blocks in that chain is immutable. If we found any transaction with invalid values and we will not change remove them or update them directly. We must add the new transaction to overwrite the invalid values to adjust them.
 
+# Day 2: Cryptographic & hashing
+
 #### `Cryptographic hash`
 cryptographic hashing or just hashing, is a commmon task in programming.
 We are already compfortable with the purposes and benefits of hashing. Think of the word hash as we use it in cooking, like corn beef hash. A hash is where you take some ingredients, chop them up into little bits, mix it all up, and get the result.
 That's kind of what we're doing here. We will put some calculations on thoese different pieces, and then combine them together
 to end up with a small value. A result that often looks smaller and very meaningless and random, but it was actually based on that original data.
 
-# Day 2: Smart Contract
+# Day 3: Smart Contract
 We could instead store a contract, an actual agreement, and this doen't just mean
 a digitalized PDF. It it a mini program with a predefined list of rules to very specifically control the business transactions. And what makes a smart contract smart is that once on the blockchain, it will be executed automatically, based on those rules. Because smart contact is written in code, it requires no intermediary to make them happen, they're fully automactic. Like the other things in blockchain, once it's placed there, it can't be changed.
 
