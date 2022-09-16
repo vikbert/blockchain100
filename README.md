@@ -64,6 +64,13 @@ a digitalized PDF. It it a mini program with a predefined list of rules to very 
 
 > **wikipedia** "A smart contract is a computer program or transaction protocol that is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement. The objectives of smart contracts are the reduction of need for trusted intermediators, arbitrations costs, fraud losses, as well as the reduction of malicious and accidental exceptions. Smart contracts are commonly associated with cryptocurrencies, and the smart contracts introduced by Ethereum are generally considered a fundamental building block for decentralized finance(DeFi) applications." <https://en.wikipedia.org/wiki/Smart_contract>
  
+# Day 4: Blockchain fundamental (tutorial)
+#### `Basic of blockchain`
+#### `Hashing`
+#### `The Block`
+#### `Security`
+#### `Implementation of Ethereum`
+
 # Tutorial resources
 ### 🎬 Executive Briefing: Blockchain
 by `Simon Allardice` (37m)
